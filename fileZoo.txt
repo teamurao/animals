@@ -1,0 +1,13 @@
+1  family: cetacea	name: cachalot	age: 60 y.o 	  place: ocean		size (m): 60
+2  family: canines	name: coyot	age: 40 y.o 	  food: meat		level of danger: 8		check: wild
+3  family: cetacea	name: whale	age: 40 y.o 	  place: ocean		size (m): 55.5
+4  family: cetacea	name: dolphin	age: 35 y.o 	  place: sea		size (m): 5.5
+5  family: equine	name: horse	age: 30 y.o 	  species: arab		colour: black			height (m): 1.6
+6  family: canines	name: fox	age: 30 y.o 	  food: meat		level of danger: 9		check: wild
+7  family: canines	name: croc	age: 25 y.o 	  food: meat		level of danger: 6		check: wild
+8  family: equine	name: horse	age: 20 y.o 	  species: pony		colour: brown			height (m): 1.3
+9  family: canines	name: jacjal	age: 20 y.o 	  food: fruits		level of danger: 7		check: wild
+10  family: equine	name: horse	age: 15 y.o 	  species: mini		colour: brown			height (m): 0.7
+11  family: canines	name: dog	age: 15 y.o 	  food: meat		level of danger: 3		check: pet
+12  family: canines	name: hyena	age: 12 y.o 	  food: carrion		level of danger: 7		check: wild
+13  family: canines	name: wolf	age: 6 y.o 	  food: meat		level of danger: 8		check: wild
