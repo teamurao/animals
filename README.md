@@ -1,4 +1,4 @@
-# animals
+# animals (pet project)
 
 These are C++ files with classes.
 
